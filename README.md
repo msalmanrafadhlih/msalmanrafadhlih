@@ -1,4 +1,5 @@
-### Hi there👋
+### Hi there 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <!--
 **msalmanrafadhlih/msalmanrafadhlih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on [...](link)
-
-- 🌱 I’m currently learning **html**
+- 🔭 I’m currently working on [](link)
+- 🌱 I’m currently learning **.HTML** **.CSS** **.JS**
+- I'm still learning.. so, don't judge me :)
 
 # 💻 Tech Stack:
 
