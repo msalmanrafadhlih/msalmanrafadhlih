@@ -43,7 +43,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 - :zap: In my free time, I love to read tech articles.
 
-- :mailbox:How to reach me: <code><a href="[https://x.com/Rafadhlih](https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208)"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code><br>
+- :mailbox:How to reach me: <code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code><br>
 - 🧠 I'm currently learning HTML CSS AND Javascript
 
 - 👯‍♀️ I'm looking to collaborate on front end developer projects
