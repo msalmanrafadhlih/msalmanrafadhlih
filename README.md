@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
-  <a href="https://ABOUT-ME.cutespot3200.repl.co"> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a><br>
+  <a href=""> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a><br>
   <p>
-  <a href="https://www.linkedin.com/in/idayat-sanni-8481b569"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://twitter.com/cutespot3200?t=jRkjpLgK6xA-m-isJcFKQw&s=09"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href=""><img src="" alt="LinkedIn Badge"/></a>
+  <a href="https://x.com/Rafadhlih"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter-X Badge"/></a>
   </p>
   <img src="https://komarev.com/ghpvc/?username=cutespot3200&style=flat-square&color=blue" alt="" align="center"/><br> 
   <h1>hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Experiences -->
-### man_technologist: About Me :
-I'm a Growing Front-End Developer from Nigeria.I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### 👨‍💻 About Me :
+I'm a Growing Front-End Developer from Indonesia.I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I love to read tech articles.
