@@ -40,7 +40,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 - :zap: In my free time, I love to read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-cutespot3200-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/idayat-sanni-8481b569](https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208/))<br>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-msalmanrafadhlih-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208)<br>
 - 🧠 I'm currently learning HTML CSS AND Javascript
 
 - 👯‍♀️ I'm looking to collaborate on front end developer projects
