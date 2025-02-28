@@ -27,6 +27,10 @@ Here are some ideas to get you started:
   <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="" align="center"/><br> 
+  <h1>hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+</div>
 
 <!-- Experiences -->
 ### about me:
