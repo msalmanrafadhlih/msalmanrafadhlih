@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
   <a href=""> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a><br>
   <p>
-    <a href="https://x.com/Rafadhlih"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="30" alt="Twitter-x" /></a>
-    <a href="https://x.com/Rafadhlih"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="30" alt="Twitter-x" /></a>
+    <a href="https://x.com/Rafadhlih">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="30" alt="Twitter-x" /></a>
   </p>
 </div>
 
@@ -40,7 +40,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 - :zap: In my free time, I love to read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge]()](https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208)<br>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-msalmanrafadhlih-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208)<br>
 - 🧠 I'm currently learning HTML CSS AND Javascript
 
 - 👯‍♀️ I'm looking to collaborate on front end developer projects
