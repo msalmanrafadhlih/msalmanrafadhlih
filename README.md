@@ -21,10 +21,10 @@ Here are some ideas to get you started:
   <a href=""> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a><br>
  
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img height="20" alt="twitter" src="/assets/x.png"></a></code> 
-  <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><a href="https://x.com/Rafadhlih" target="_blank"><img height="20" alt="bluesky" src="/assets/bluesky2.png"></a></code>
-  <code><a href="https://x.com/Rafadhlih" target="_blank"><img height="20" alt="graphql" src="/assets/threads.png"></a></code>
-  <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+  <code><a href="" target="_blank"><img height="20" alt="facebook" src="/assets/facebook.png"></code>
+  <code><a href="https://bsky.app/profile/msalmanrafadhlih.bsky.social" target="_blank"><img height="20" alt="bluesky" src="/assets/bluesky2.png"></a></code>
+  <code><a href="https://www.threads.net/@msalmanrafadhlih" target="_blank"><img height="20" alt="threads" src="/assets/threads.png"></a></code>
+  <code><a href="https://www.instagram.com/msalmanrafadhlih" target="_blank"><img height="20" alt="instagram" src="/assets/instagram1.png"></code>
 
 </div>
 <div align="center">
