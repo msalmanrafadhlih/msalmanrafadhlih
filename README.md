@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  
   <code><a href="https://x.com/Rafadhlih"><img height="20" alt="twitter" src="/assets/x.png"></a></code>
   <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <img height="20" alt="bluesky" src="/assets/bluesky1.png"><img width="50">
+  <code><img height="20" alt="bluesky" src="/assets/bluesky2.png"></code>
   <code><img height="20" alt="graphql" src="/assets/threads.png"></code>
   <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
@@ -43,7 +43,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 - :zap: In my free time, I love to read tech articles.
 
-- :mailbox:How to reach me: <code><a href="[https://x.com/Rafadhlih](https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208)"><img height="20" alt="twitter" src="/assets/linkedid-white.png"></a></code><br>
+- :mailbox:How to reach me: <code><a href="[https://x.com/Rafadhlih](https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208)"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code><br>
 - 🧠 I'm currently learning HTML CSS AND Javascript
 
 - 👯‍♀️ I'm looking to collaborate on front end developer projects
