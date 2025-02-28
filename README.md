@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
   <a href=""> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a><br>
  
-  <code><a href="https://x.com/Rafadhlih"><img height="20" alt="twitter" src="/assets/x.png"></a></code>
+  <code><a href="https://x.com/Rafadhlih" target="_blank"><img height="20" alt="twitter" src="/assets/x.png"></a></code> 
   <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img height="20" alt="bluesky" src="/assets/bluesky2.png"></code>
-  <code><img height="20" alt="graphql" src="/assets/threads.png"></code>
+  <code><a href="https://x.com/Rafadhlih" target="_blank"><img height="20" alt="bluesky" src="/assets/bluesky2.png"></a></code>
+  <code><a href="https://x.com/Rafadhlih" target="_blank"><img height="20" alt="graphql" src="/assets/threads.png"></a></code>
   <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 </div>
@@ -74,8 +74,8 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 # 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" /></code>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
