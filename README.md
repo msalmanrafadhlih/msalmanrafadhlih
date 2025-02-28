@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 # 👨‍💻 Favorite Repos:
 <p align="center">
   <a href="https://github.com/msalmanrafadhlih/mihon">
-    <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=Mihon-Backup-Viewer&theme=dracula&description_lines_count=2" />
+    <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=mihon&theme=dracula&description_lines_count=2" />
   </a>
   <a href="https://github.com/msalmanrafadhlih/ensiklopedia-github.io">
-    <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=Image-to-Casio-Basic&theme=dracula&description_lines_count=2" />
+    <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=ensiklopedia-github.io&theme=dracula&description_lines_count=2" />
   </a>
 </p>
