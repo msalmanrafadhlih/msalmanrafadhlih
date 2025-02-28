@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
   <a href=""> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a><br>
   
-  <p style="margin-top: 1px;">
+  <p style="margin-top: 10px;">
     <a href="https://x.com/Rafadhlih"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="30" alt="Twitter-x" /><img width="12"/></a>
     <a href="https://x.com/Rafadhlih"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="30" alt="Twitter-x" /><img width="12"/></a>
   </p>
