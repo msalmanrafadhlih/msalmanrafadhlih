@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Experiences -->
-### 👨‍🎨_technologist: About Me :
+### man_technologist: About Me :
 I'm a Growing Front-End Developer from Nigeria.I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :seedling: Exploring Technical Content Writing.
 
