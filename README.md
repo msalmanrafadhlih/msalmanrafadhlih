@@ -54,7 +54,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=msalmanrafadhlih&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=msalmanrafadhlih&theme=dracula&card_height=170" />
 </p>
 
 # 👨‍💻 Favorite Repos:
