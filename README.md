@@ -50,7 +50,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 
 
-<details> 
+<details open> 
   <summary><h2>📊 GitHub Stats:</h2></summary>
     <p align="center">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" />
@@ -61,7 +61,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 
 
-<details> 
+<details open> 
   <summary><h2>👨‍💻My Favorite Repos:</h2></summary>
     <p align="center">
       <a href="https://github.com/msalmanrafadhlih/mihon">
@@ -74,32 +74,20 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 </detail>
 
 
-<details> 
+<details open> 
   <summary><h2>💻 Tech Stack:</h2></summary>
- 
   <p align="center">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/></code>
-
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></code>
-
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></code>
-
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></code>
-
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></code>
-
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></code>
-
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  /></code>
-
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  /></code>
-
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  /></code>
-
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  /></code>
-
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /></code>
-  
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /></code>
   </p>
 </details>
