@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Experiences -->
-# About me:
+<h3>About me:</h3>
 <h3 style="font-family: comic-sans-ms">
 I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 - :seedling: Exploring Technical Content Writing.
