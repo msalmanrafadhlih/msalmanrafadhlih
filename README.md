@@ -54,7 +54,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>
+  <a href=""><img src="https://streak-stats.demolab.com?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>
 </p>
 
 # 👨‍💻 Favorite Repos:
@@ -86,3 +86,11 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /></code>
 </p>
 
+
+<details> 
+  <summary><h2>My Streaks</h2></summary>
+<p align="center">
+<img src="https://d3frb2mbny706b.cloudfront.net/<msalmanrafadhlih>" width="600">
+</p>
+
+</details>
