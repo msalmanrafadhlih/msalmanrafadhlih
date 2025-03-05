@@ -83,7 +83,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <summary><h2 align="center">📊 Stats And Activities:</h2></summary>
   <p align="center">
   <a href=""><img height="170" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" />
-  <a href=""><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula" />
+  <a href=""><img width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=draculacard_height=170" />
   <a href=""><img src="https://streak-stats.demolab.com?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>
   </p>
 
@@ -111,11 +111,6 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /></code>
   </p>
-  
-  <p align="center">
-  <a href="https://github.com/msalmanrafadhlih">
-    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-  </p>
 </details>
 
 
@@ -130,13 +125,6 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <a href="https://github.com/msalmanrafadhlih/ensiklopedia-github.io">
   <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=ensiklopedia-github.io&theme=dracula&description_lines_count=2" /></a>
   </p>
-
-  <p align="center">
-  <a href="https://github.com/msalmanrafadhlih">
-    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-  </p>
-
-
 </details>
 
 
@@ -166,38 +154,12 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 
 <details> 
-
   <summary><h2 align="center">❤️‍🔥Top Project i've Contributed To: </h2></summary>
-
-  <p align="center">
-<!-- <img src="https://d3frb2mbny706b.cloudfront.net/<msalmanrafadhlih>" width="600"> -->
-    <!-- <a href="https://github.com/msalmanrafadhlih/mihon">
-      <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=mihon&theme=dracula&description_lines_count=2" />
-    </a> -->
-  </p>
-
-  <p align="center">
-  <a href="https://github.com/msalmanrafadhlih?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-  </p>
-
+  <p align="center"></p>
 </details>
 
 <details> 
-
   <summary><h2 align="center">🌠 GitHub Stars: </h2></summary>
-
-  <p align="center">
-<!-- <img src="https://d3frb2mbny706b.cloudfront.net/<msalmanrafadhlih>" width="600"> -->
-    <!-- <a href="https://github.com/msalmanrafadhlih/mihon">
-      <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=mihon&theme=dracula&description_lines_count=2" />
-    </a> -->
-  </p>
-
-  <p align="center">
-  <a href="https://github.com/msalmanrafadhlih?tab=stars">
-    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-  </p>
-
+  <p align="center"></p>
 </details>
 
