@@ -114,7 +114,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <p align="center">
   <a href="https://github.com/msalmanrafadhlih?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20for%20All%20My%20Repositories%20--&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20for%20All%20My%20Repositories%20<--&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 </details>
 
