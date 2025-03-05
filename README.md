@@ -19,8 +19,17 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div> -->
 ## Muhammad Salman Ramadhan Alfadhlih <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
+-
+-
+-
+-
+-
+-
+-
+-
 
 <div align="left">
+  <p>
   <a href=""> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a><br>
  
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img height="20" alt="twitter" src="/assets/x.png"></a></code> 
@@ -28,9 +37,10 @@ Here are some ideas to get you started:
   <code><a href="https://www.threads.net/@msalmanrafadhlih" target="_blank"><img height="20" alt="threads" src="/assets/threads.png"></a></code>
   <code><a href="https://github.com/msalmanrafadhlih" target="_blank"><img height="20" alt="Youtube" src="/assets/youtube.png"></a></code>
   <code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208" target="_blank"><img height="20" alt="linkedin.com" src="/assets/linkedin1.png"></a></code><br>
+  </p>
   <!--https://www.youtube.com/@Babebibobu1?sub_confirmation=1-->
-
 </div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="center"/><br> 
   <h1>hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
