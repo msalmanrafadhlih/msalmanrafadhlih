@@ -37,42 +37,50 @@ Here are some ideas to get you started:
 <h3>About me:</h3>
 <h3 style="font-family: comic-sans-ms">
 I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-- :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I love to read tech articles.
+<ul>
+ <li>🌱 Exploring Technical Content Writing.</li>
+ <li>⚡In my free time, I love to read tech articles.</li>
+ <li>🧠 'm currently learning HTML CSS AND Javascript</li>
+ <li>👯‍♀️ I'm looking to collaborate on front end developer projects.</li>
+ <li>🤔 I'm looking for help with mastering my skills as front end developer(beginner).</li>
+</ul>
 
-- :mailbox:How to reach me: <code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208" target="_blank"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code>
-- 🧠 I'm currently learning HTML CSS AND Javascript
+<h3>📫 How to reach me: <code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208" target="_blank"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code>
+</h3><br>
 
-- 👯‍♀️ I'm looking to collaborate on front end developer projects
-
-- 🤔 I'm looking for help with mastering my skills as front end developer(beginner)
-
-
-
+# My Github Profile
 <details open> 
-  <summary><h2>📊 GitHub Stats:</h2></summary>
-    <p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula" />
-    <a href=""><img src="https://streak-stats.demolab.com?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>
-    </p>
+  <summary><h2>📊 Stats And Activities:</h2></summary>
+  <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula" />
+  <a href=""><img src="https://streak-stats.demolab.com?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>
+  </p>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=msalmanrafadhlih&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
+  I haven't contributed at all, lol 
 </detail>
 
 
 
 <details open> 
   <summary><h2>👨‍💻My Favorite Repos:</h2></summary>
-    <p align="center">
-      <a href="https://github.com/msalmanrafadhlih/mihon">
-        <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=mihon&theme=dracula&description_lines_count=2" />
-      </a>
-      <a href="https://github.com/msalmanrafadhlih/ensiklopedia-github.io">
-        <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=ensiklopedia-github.io&theme=dracula&description_lines_count=2" />
-      </a>
-    </p>
+  <p align="center">
+    <a href="https://github.com/msalmanrafadhlih/mihon">
+      <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=mihon&theme=dracula&description_lines_count=2" />
+    </a>
+    <a href="https://github.com/msalmanrafadhlih/ensiklopedia-github.io">
+      <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=ensiklopedia-github.io&theme=dracula&description_lines_count=2" />
+    </a>
+  </p>
 
-  
+  <p align="center">
+  <a href="https://github.com/msalmanrafadhlih">
+    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  </p>
+
 </detail>
 
 
@@ -92,12 +100,17 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /></code>
   </p>
+  
+  <p align="center">
+  <a href="https://github.com/msalmanrafadhlih">
+    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  </p>
 </details>
 
 
 <details> 
 
-  <summary><h2>📕 All My Repositories</h2></summary>
+  <summary><h2>📕 All My Repositories:</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="center">
@@ -112,22 +125,45 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
     <a href="https://github.com/msalmanrafadhlih/CSS-table-balance-sheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=CSS-table-balance-sheet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
   </p>
 
-<p align="center">
-  <a href="https://github.com/msalmanrafadhlih?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20for%20All%20My%20Repositories%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+  <p align="center">
+    <a href="https://github.com/msalmanrafadhlih?tab=repositories">
+      <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20for%20All%20My%20Repositories%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  </p>
 </details>
 
 
 <details> 
 
-  <summary><h2>❤️‍🔥 GitHub.io </h2></summary>
+  <summary><h2>❤️‍🔥Top Project i've Contributed To: </h2></summary>
 
   <p align="center">
 <!-- <img src="https://d3frb2mbny706b.cloudfront.net/<msalmanrafadhlih>" width="600"> -->
     <!-- <a href="https://github.com/msalmanrafadhlih/mihon">
       <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=mihon&theme=dracula&description_lines_count=2" />
     </a> -->
+  </p>
+
+  <p align="center">
+  <a href="https://github.com/msalmanrafadhlih?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  </p>
+
+</details>
+
+<details> 
+
+  <summary><h2>🌠 GitHub Stars: </h2></summary>
+
+  <p align="center">
+<!-- <img src="https://d3frb2mbny706b.cloudfront.net/<msalmanrafadhlih>" width="600"> -->
+    <!-- <a href="https://github.com/msalmanrafadhlih/mihon">
+      <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=mihon&theme=dracula&description_lines_count=2" />
+    </a> -->
+  </p>
+
+  <p align="center">
+  <a href="https://github.com/msalmanrafadhlih?tab=stars">
+    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
   </p>
 
 </details>
