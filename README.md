@@ -19,7 +19,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div> -->
 ## Tquilla <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
--
+
+<a href=""><img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="right" align="left"/></a>
+
 -
 -
 -
@@ -28,28 +30,26 @@ Here are some ideas to get you started:
 -
 -
 
-  <div>
-  <a href="" align="left"> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a>
-  <p align="right">
+  <p align ="left">
+  <a href=""> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a>
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img height="20" alt="twitter" src="/assets/x.png"></a></code> 
   <code><a href="https://bsky.app/profile/msalmanrafadhlih.bsky.social" target="_blank"><img height="20" alt="bluesky" src="/assets/bluesky2.png"></a></code>
   <code><a href="https://www.threads.net/@msalmanrafadhlih" target="_blank"><img height="20" alt="threads" src="/assets/threads.png"></a></code>
   <code><a href="https://github.com/msalmanrafadhlih" target="_blank"><img height="20" alt="Youtube" src="/assets/youtube.png"></a></code>
   <code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208" target="_blank"><img height="20" alt="linkedin.com" src="/assets/linkedin1.png"></a></code><br>
   </p>
-  </div>
+ 
   <!--https://www.youtube.com/@Babebibobu1?sub_confirmation=1-->
 
 <div>
   <p>
   <h1 align="center">hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="right"/>
   </p>
-</div>
 
 <!-- Experiences -->
-<h3>About me:</h3>
+
 <h3 style="font-family: comic-sans-ms">
+About Me:<br><br>
 I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <ul>
@@ -60,38 +60,10 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
  <li>🤔 I'm looking for help with mastering my skills as front end developer(beginner).</li>
 </ul>
 
-<h3>📫 How to reach me: <code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208" target="_blank"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code>
-</h3><br>
+📫 How to reach me: <code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208" target="_blank"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code>
+<br>
 
 
-<details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
-
-  <table>
-    <tr>
-      <!-- <th>$10+/month</th> -->
-      <th>$5+/month</th>
-    </tr>
-    <tr>
-      <!-- $10+/month -->
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/username"><b>Full Name</b></a>
-        </b>
-      </td> -->
-      <!-- $5+/month -->
-      <td>
-        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-      </td>
-    </tr>
-  </table>
-
-  <a href="#my-github-profile"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-</details>
-
-# My GitHub Profile
 <details open> 
 
   <summary><h2 align="center">📊 Stats And Activities:</h2></summary>
