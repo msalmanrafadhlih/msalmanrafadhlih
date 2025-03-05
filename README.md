@@ -49,6 +49,33 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 <h3>📫 How to reach me: <code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208" target="_blank"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code>
 </h3><br>
 
+<details open> 
+  <summary><h2>🌠 Top Sponsors</h2></summary>
+
+  <table>
+    <tr>
+      <!-- <th>$10+/month</th> -->
+      <th>$5+/month</th>
+    </tr>
+    <tr>
+      <!-- $10+/month -->
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/username"><b>Full Name</b></a>
+        </b>
+      </td> -->
+      <!-- $5+/month -->
+      <td>
+        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
+      </td>
+    </tr>
+  </table>
+
+  <a href="#my-github-profile"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+</details>
+
 # My GitHub Profile
 <details open> 
   <summary><h2>📊 Stats And Activities:</h2></summary>
@@ -62,27 +89,6 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   
   I haven't contributed at all, lol 
 </detail>
-
-
-
-<details open> 
-  <summary><h2>👨‍💻My Favorite Repos:</h2></summary>
-  <p align="center">
-    <a href="https://github.com/msalmanrafadhlih/mihon">
-      <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=mihon&theme=dracula&description_lines_count=2" />
-    </a>
-    <a href="https://github.com/msalmanrafadhlih/ensiklopedia-github.io">
-      <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=ensiklopedia-github.io&theme=dracula&description_lines_count=2" />
-    </a>
-  </p>
-
-  <p align="center">
-  <a href="https://github.com/msalmanrafadhlih">
-    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-  </p>
-
-</detail>
-
 
 <details open> 
   <summary><h2>💻 Tech Stack:</h2></summary>
@@ -106,6 +112,24 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
     <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
   </p>
 </details>
+
+<details open> 
+  <summary><h2>👨‍💻My Favorite Repos:</h2></summary>
+  <p align="center">
+    <a href="https://github.com/msalmanrafadhlih/mihon">
+      <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=mihon&theme=dracula&description_lines_count=2" />
+    </a>
+    <a href="https://github.com/msalmanrafadhlih/ensiklopedia-github.io">
+      <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=ensiklopedia-github.io&theme=dracula&description_lines_count=2" />
+    </a>
+  </p>
+
+  <p align="center">
+  <a href="https://github.com/msalmanrafadhlih">
+    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  </p>
+
+</detail>
 
 
 <details> 
