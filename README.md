@@ -49,6 +49,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 <h3>📫 How to reach me: <code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208" target="_blank"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code>
 </h3><br>
 
+# My GitHub Profile
 <details open> 
   <summary><h2>🌠 Top Sponsors</h2></summary>
 
@@ -76,9 +77,9 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <a href="#my-github-profile"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
 
-# My GitHub Profile
+
 <details open> 
-  <summary><h2>📊 Stats And Activities:</h2></summary>
+  <summary><h2 align="center">📊 Stats And Activities:</h2></summary>
   <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula" />
@@ -91,7 +92,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 </detail>
 
 <details open> 
-  <summary><h2>💻 Tech Stack:</h2></summary>
+  <summary><h2 align="center">💻 Tech Stack:</h2></summary>
   <p align="center">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></code>
@@ -114,7 +115,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 </details>
 
 <details open> 
-  <summary><h2>👨‍💻My Favorite Repos:</h2></summary>
+  <summary><h2 align="center">👨‍💻My Favorite Repos:</h2></summary>
   <p align="center">
     <a href="https://github.com/msalmanrafadhlih/mihon">
       <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=mihon&theme=dracula&description_lines_count=2" />
@@ -134,7 +135,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <details> 
 
-  <summary><h2>📕 All My Repositories:</h2></summary>
+  <summary><h2 align="center">📕 All My Repositories:</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="center">
@@ -158,7 +159,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <details> 
 
-  <summary><h2>❤️‍🔥Top Project i've Contributed To: </h2></summary>
+  <summary><h2 align="center">❤️‍🔥Top Project i've Contributed To: </h2></summary>
 
   <p align="center">
 <!-- <img src="https://d3frb2mbny706b.cloudfront.net/<msalmanrafadhlih>" width="600"> -->
@@ -176,7 +177,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <details> 
 
-  <summary><h2>🌠 GitHub Stars: </h2></summary>
+  <summary><h2 align="center">🌠 GitHub Stars: </h2></summary>
 
   <p align="center">
 <!-- <img src="https://d3frb2mbny706b.cloudfront.net/<msalmanrafadhlih>" width="600"> -->
