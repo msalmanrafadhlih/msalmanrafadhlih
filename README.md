@@ -100,7 +100,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <summary><h2>📕 All My Repositories</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/msalmanrafadhlih/fighting-game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=fighting-game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
     <a href="https://github.com/msalmanrafadhlih/peminjaman-buku-digital"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=peminjaman-buku-digital&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
     <a href="https://github.com/msalmanrafadhlih/ensiklopedia-github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=ensiklopedia-github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
@@ -114,7 +114,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <p align="center">
   <a href="https://github.com/msalmanrafadhlih?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Click%20Here%20for%20All%20My%20Repositories&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20for%20All%20My%20Repositories%20--&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 </details>
 
