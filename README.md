@@ -112,10 +112,10 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
     <a href="https://github.com/msalmanrafadhlih/CSS-table-balance-sheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=CSS-table-balance-sheet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
   </p>
 
-  <p align="left">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
-
+<p align="center">
+  <a href="https://github.com/msalmanrafadhlih?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Click%20Here%20for%20All%20My%20Repositories&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 </details>
 
 
