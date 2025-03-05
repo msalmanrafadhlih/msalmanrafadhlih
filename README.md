@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div> -->
-## Muhammad Salman Ramadhan Alfadhlih <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
+## Tquilla <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
 -
 -
 -
@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 -
 -
 
-<div>
   <div>
-  <a href="" align="left"> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a><br>
+  <a href="" align="left"> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a>
   <p align="right">
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img height="20" alt="twitter" src="/assets/x.png"></a></code> 
   <code><a href="https://bsky.app/profile/msalmanrafadhlih.bsky.social" target="_blank"><img height="20" alt="bluesky" src="/assets/bluesky2.png"></a></code>
@@ -40,12 +39,11 @@ Here are some ideas to get you started:
   </p>
   </div>
   <!--https://www.youtube.com/@Babebibobu1?sub_confirmation=1-->
-</div>
 
 <div>
   <p>
   <h1 align="center">hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="right"/><br> 
+  <img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="right"/>
   </p>
 </div>
 
