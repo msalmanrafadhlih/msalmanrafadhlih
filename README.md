@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div> -->
 ## Tquilla <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
 
-<a href=""><img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="right" align="left"/></a>
+<a href="" align="left"><img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="right"/></a>
 
 -
 -
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 -
 -
 
-  <p align ="left">
-  <a href=""> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a>
+  <p align ="right">
+  <a href=""> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a><br>
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img height="20" alt="twitter" src="/assets/x.png"></a></code> 
   <code><a href="https://bsky.app/profile/msalmanrafadhlih.bsky.social" target="_blank"><img height="20" alt="bluesky" src="/assets/bluesky2.png"></a></code>
   <code><a href="https://www.threads.net/@msalmanrafadhlih" target="_blank"><img height="20" alt="threads" src="/assets/threads.png"></a></code>
