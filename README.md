@@ -49,7 +49,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 <h3>📫 How to reach me: <code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208" target="_blank"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code>
 </h3><br>
 
-# My Github Profile
+# My GitHub Profile
 <details open> 
   <summary><h2>📊 Stats And Activities:</h2></summary>
   <p align="center">
@@ -78,7 +78,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
   <p align="center">
   <a href="https://github.com/msalmanrafadhlih">
-    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
   </p>
 
 </detail>
@@ -103,7 +103,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   
   <p align="center">
   <a href="https://github.com/msalmanrafadhlih">
-    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
   </p>
 </details>
 
@@ -145,7 +145,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
   <p align="center">
   <a href="https://github.com/msalmanrafadhlih?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
   </p>
 
 </details>
@@ -163,7 +163,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
   <p align="center">
   <a href="https://github.com/msalmanrafadhlih?tab=stars">
-    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
   </p>
 
 </details>
