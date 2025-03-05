@@ -83,8 +83,8 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <summary><h2 align="center">📊 Stats And Activities:</h2></summary>
   <p align="center">
   <a href=""><img height="170" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" />
-  <a href=""><img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula" />
-  <a href=""><img height=170 src="https://streak-stats.demolab.com?user=msalmanrafadhlih&theme=dracula" alt="GitHub Streak" /></a>
+  <a href=""><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=draculacard_height=170" />
+  <a href=""><img src="https://streak-stats.demolab.com?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>
   </p>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=msalmanrafadhlih&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
