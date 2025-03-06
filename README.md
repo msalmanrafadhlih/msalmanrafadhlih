@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div> -->
-## Tquilla <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" /><br>
+## <samp> Hey There!, I am <b>Rafadhlih<b> </samp> <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" /><br>
+<!-- <h3 align="">
+        <samp>&gt; Hey There!, I am
+                <b>Tquilla</b>
+        </samp>
+</h3> -->
 
 <a href="" align="left"><img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="right"/></a>
 
