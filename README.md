@@ -18,20 +18,19 @@ Here are some ideas to get you started:
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div> -->
-## <img align="" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" /> <samp>> Hey There!, I am <b>Rafadhlih<b> </samp><br>
+## <img align="" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" /> <samp>> Hey There!, I am <b>Rafadhlih<b> </samp> 
+-
+-
+-
+-
+-
+-
+-<br>
 <!-- <h3 align="">
         <samp>&gt; Hey There!, I am
                 <b>Tquilla</b>
         </samp>
 </h3> -->
-
--
--
--
--
--
--
--
 
   <p align ="left">
   <a href=""> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a><br>
