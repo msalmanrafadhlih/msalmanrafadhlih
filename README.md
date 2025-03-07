@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 </div> -->
 ## <samp>> Hey There!, I am <b>Rafadhlih<b> </samp> <img align="right" src="/assets/Ap.jpg" width="200" />
 <!--https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif-->
-<h3 style="font-family: comic-sans-ms">
-I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3><br>
+<h3 style="font-family: comic-sans-ms"><samp>
+I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.</samp> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3><br>
 <a href="" align="left"> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio Badge"/></a>
 <ul>
- <li>🌱 Exploring Technical Content Writing.</li>
- <li>⚡In my free time, I love to read tech articles.</li>
- <li>🧠 'm currently learning HTML CSS AND Javascript</li>
- <li>👯‍♀️ I'm looking to collaborate on front end developer projects.</li>
- <li>🤔 I'm looking for help with mastering my skills as front end developer(beginner).</li>
+ <li><samp>🌱 Exploring Technical Content Writing.</samp></li>
+ <li><samp>⚡ In my free time, I love to read tech articles.</samp></li>
+ <li><samp>🧠 I'm currently learning HTML CSS AND Javascript</samp></li>
+ <li><samp>👯‍♀️ I'm looking to collaborate on front end developer projects.</samp></li>
+ <li><samp>🤔 I'm looking for help with mastering my skills as front end developer(beginner).</samp></li>
 </ul>
 <br>
 <!-- <h3 align="">
