@@ -87,6 +87,10 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
     <a href="https://github.com/msalmanrafadhlih/CSS-Color-Markers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=CSS-Color-Markers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
     <a href="https://github.com/msalmanrafadhlih/tribute-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=tribute-page&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
     <a href="https://github.com/msalmanrafadhlih/CSS-table-balance-sheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=CSS-table-balance-sheet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/msalmanrafadhlih/piano"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=piano&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/msalmanrafadhlih/css-cat-painting"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=css-cat-painting&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/msalmanrafadhlih/WebStore"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=WebStore&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+
   </p>
 
   <p align="center">
