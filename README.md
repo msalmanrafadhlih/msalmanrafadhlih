@@ -58,7 +58,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <details open> 
 
-  <summary><h2 align="center">📊 Stats And Activities:</h2></summary>
+  <summary><h2 align="left">📊 Stats And Activities:</h2></summary>
   <p align="center">
   <a href=""><img height="170" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" />
   <a href=""><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula"/>
@@ -74,7 +74,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <details> 
 
-  <summary><h2 align="center">📕All My Repositories:</h2></summary>
+  <summary><h2 align="left">📕All My Repositories:</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="center">
@@ -97,7 +97,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <details> 
 
-  <summary><h2 align="center">👨‍💻My Favorite Repositories:</h2></summary>
+  <summary><h2 align="left">👨‍💻My Favorite Repositories:</h2></summary>
 
   <p align="center">
   <a href="https://github.com/msalmanrafadhlih/mihon">
@@ -110,17 +110,17 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 
 <details> 
-  <summary><h2 align="center">❤️‍🔥Top Project i've Contributed To: </h2></summary>
+  <summary><h2 align="left">❤️‍🔥Top Project i've Contributed To: </h2></summary>
   <p align="center"></p>
 </details>
 
 <details> 
-  <summary><h2 align="center">🌠 GitHub Stars: </h2></summary>
+  <summary><h2 align="left">🌠 GitHub Stars: </h2></summary>
   <p align="center"></p>
 </details>
 
 <details open> 
-  <summary><h2 align="center">💻 Tech Stack:</h2></summary>
+  <summary><h2 align="left">💻 Tech Stack:</h2></summary>
   <p align="center">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></code>
