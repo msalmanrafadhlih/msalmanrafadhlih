@@ -36,8 +36,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
         </samp>
 </h3> -->
 
-  <p align ="left">
-  <a href=""> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a><br>
+  <p align ="left"> 📫 How to reach me:
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img height="20" alt="twitter" src="/assets/x.png"></a></code> 
   <code><a href="https://bsky.app/profile/msalmanrafadhlih.bsky.social" target="_blank"><img height="20" alt="bluesky" src="/assets/bluesky2.png"></a></code>
   <code><a href="https://www.threads.net/@msalmanrafadhlih" target="_blank"><img height="20" alt="threads" src="/assets/threads.png"></a></code>
@@ -49,11 +48,12 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <!-- Experiences -->
 
-📫 How to reach me: <code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208" target="_blank"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code>
-<br>
+<!--<code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208" target="_blank"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code>
+<br> -->
 
   <!--<h1 align="center">About Me:<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>-->
-## <p><a href="" align="left"><img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="right"/></a> </p>
+##  <a href=""> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a><br>
+<p><a href="" align="left"><img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="right"/></a> </p>
 
 
 <details open> 
