@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div> -->
-## <samp>> Hey There!, I am <b>Rafadhlih<b> </samp> <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
+## <samp>> Hey There!, I am <b>Rafadhlih<b> </samp> <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" /> <a href="" align="left"> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a>
 <h3 style="font-family: comic-sans-ms"><br>
 I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
@@ -52,8 +52,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 <br> -->
 
   <!--<h1 align="center">About Me:<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>-->
-## <p> <a href="" align="left"> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt-"Portfolio Badge"/></a>
-<a href="" align="left"><img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="right"/></a> </p>
+## <p><a href="" align="left"><img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="right"/></a> </p>
 
 
 <details open> 
