@@ -70,20 +70,6 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <p>I haven't contributed at all, lol </p>
 </details>
 
-<details open> 
-
-  <summary><h2 align="center">👨‍💻My Favorite Repositories:</h2></summary>
-
-  <p align="center">
-  <a href="https://github.com/msalmanrafadhlih/mihon">
-  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=mihon&theme=dracula&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/msalmanrafadhlih/ensiklopedia-github.io">
-  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=ensiklopedia-github.io&theme=dracula&description_lines_count=2" /></a>
-  </p>
-</details>
-
-
 
 <details> 
 
@@ -105,6 +91,19 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <p align="center">
     <a href="https://github.com/msalmanrafadhlih?tab=repositories">
       <img src="https://readme-typing-svg.demolab.com/?lines=-->%20Click%20Here%20for%20All%20My%20Repositories%20<--&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  </p>
+</details>
+
+<details> 
+
+  <summary><h2 align="center">👨‍💻My Favorite Repositories:</h2></summary>
+
+  <p align="center">
+  <a href="https://github.com/msalmanrafadhlih/mihon">
+  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=mihon&theme=dracula&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/msalmanrafadhlih/ensiklopedia-github.io">
+  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=ensiklopedia-github.io&theme=dracula&description_lines_count=2" /></a>
   </p>
 </details>
 
