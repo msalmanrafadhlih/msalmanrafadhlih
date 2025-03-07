@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div> -->
-## <p align="right"> <samp>> Hey There!, I am <b>Rafadhlih<b> </samp> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
+## <samp>> Hey There!, I am <b>Rafadhlih<b> </samp> <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
 -
 -
 -
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -
 -
 -
-</p><br>
+<br>
 <!-- <h3 align="">
         <samp>&gt; Hey There!, I am
                 <b>Tquilla</b>
