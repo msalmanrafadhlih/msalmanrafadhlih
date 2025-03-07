@@ -19,13 +19,17 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div> -->
 ## <samp>> Hey There!, I am <b>Rafadhlih<b> </samp> <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
--
--
--
--
--
--
--
+<h3 style="font-family: comic-sans-ms">
+<br><br>
+I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+
+<ul>
+ <li>🌱 Exploring Technical Content Writing.</li>
+ <li>⚡In my free time, I love to read tech articles.</li>
+ <li>🧠 'm currently learning HTML CSS AND Javascript</li>
+ <li>👯‍♀️ I'm looking to collaborate on front end developer projects.</li>
+ <li>🤔 I'm looking for help with mastering my skills as front end developer(beginner).</li>
+</ul>
 <br>
 <!-- <h3 align="">
         <samp>&gt; Hey There!, I am
@@ -51,18 +55,6 @@ Here are some ideas to get you started:
   </p>
 
 <!-- Experiences -->
-
-<h3 style="font-family: comic-sans-ms">
-<br><br>
-I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-
-<ul>
- <li>🌱 Exploring Technical Content Writing.</li>
- <li>⚡In my free time, I love to read tech articles.</li>
- <li>🧠 'm currently learning HTML CSS AND Javascript</li>
- <li>👯‍♀️ I'm looking to collaborate on front end developer projects.</li>
- <li>🤔 I'm looking for help with mastering my skills as front end developer(beginner).</li>
-</ul>
 
 📫 How to reach me: <code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208" target="_blank"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code>
 <br>
