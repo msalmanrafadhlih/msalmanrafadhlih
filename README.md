@@ -19,8 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div> -->
 ## <samp>> Hey There!, I am <b>Rafadhlih<b> </samp> <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
-<h3 style="font-family: comic-sans-ms">
-<br><br>
+<h3 style="font-family: comic-sans-ms"><br>
 I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <ul>
@@ -48,16 +47,13 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
  
   <!--https://www.youtube.com/@Babebibobu1?sub_confirmation=1-->
 
-
-  <p>
-  <!--<h1 align="center">About Me:<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>-->
-  <a href="" align="left"><img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="right"/></a>
-  </p>
-
 <!-- Experiences -->
 
 📫 How to reach me: <code><a href="https://www.linkedin.com/in/moch-salman-al-fadhlih-298aa0208" target="_blank"><img height="20" alt="twitter" src="/assets/linkedin-white.png"></a></code>
 <br>
+
+  <!--<h1 align="center">About Me:<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>-->
+## <p><a href="" align="left"><img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue" alt="Profile views" align="right"/></a> </p>
 
 
 <details open> 
