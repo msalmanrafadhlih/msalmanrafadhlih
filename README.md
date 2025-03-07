@@ -73,7 +73,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <details> 
 
-  <summary><h2 align="center">📕 All My Repositories:</h2></summary>
+  <summary><h2 align="center">📕All My Repositories:</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="center">
