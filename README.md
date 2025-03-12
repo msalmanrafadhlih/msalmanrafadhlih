@@ -114,10 +114,10 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 
 <details> 
-  <summary><h2 align="left">❤️‍🔥Top Project i've Contributed To: </h2></summary>
+  <summary><h2 align="left">❤️‍🔥Project i've Contributed To: </h2></summary>
   <p align="center">
-    <a href="https://github.com/msalmanrafadhlih/ensiklopedia-github.io">
-  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=Discord-Bot&theme=dracula&description_lines_count=2" /></a>
+    <a href="https://github.com/TQ-Chatting-Ai/Discord-bot">
+  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=Discord-Bot&theme=dracula&description_lines_count=3" /></a>
   </p>
 </details>
 
