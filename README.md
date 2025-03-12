@@ -126,7 +126,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <p align="center"></p>
 </details>
 
-
+<!-- Control "p" -->
 
 <details open> 
   <summary><h2 align="left">💻 Tech Stack:</h2></summary>
