@@ -107,7 +107,6 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <a href="https://github.com/EbookFoundation/free-programming-books">
   <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EbookFoundation&repo=free-programming-books&theme=dracula&description_lines_count=3" />
   </a>
-  
   <a href="https://github.com/freeCodeCamp/freeCodeCamp">
   <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=freeCodeCamp&repo=freeCodeCamp&show_owner=true&theme=dracula&description_lines_count=3" /></a>
   </p>
