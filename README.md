@@ -72,7 +72,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 </details>
 
 
-<details> 
+<details open> 
 
   <summary><h2 align="left">📕All My Repositories:</h2></summary>
 
@@ -99,7 +99,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   </p>
 </details>
 
-<details> 
+<details open> 
 
   <summary><h2 align="left">👨‍💻My Favorite Repositories:</h2></summary>
 
@@ -113,7 +113,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 </details>
 
 
-<details> 
+<details open> 
   <summary><h2 align="left">❤️‍🔥Project i've Contributed To: </h2></summary>
   <p align="center">
     <a href="https://github.com/TQ-Chatting-Ai/Discord-bot">
@@ -123,7 +123,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <!-- add -->
 
-<details> 
+<details open> 
   <summary><h2 align="left">🌠 GitHub Stars: </h2></summary>
   <p align="center">
   <a href="https://github.com/mihonapp/mihon">
@@ -134,6 +134,8 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ReVanced&repo=revanced-manager&show_owner=true&theme=dracula&description_lines_count=3" /></a>
   <a href="https://github.com/EvanLi/Github-Ranking">
   <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanLi&repo=Github-Ranking&show_owner=true&theme=dracula&description_lines_count=3" /></a>
+  <a href="https://github.com/drknzz/GitHub-Achievements">
+  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drknzz&repo=GitHub-Achievements&show_owner=true&theme=dracula&description_lines_count=3" /></a>
   </p>
 </details>
 
