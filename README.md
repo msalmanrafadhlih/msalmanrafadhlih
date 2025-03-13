@@ -56,7 +56,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 ## <p><a href=""><img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue&style=for-the-badge&abbreviated=true" alt="Profile views" align="right"/></a> </p>
 
 
-<details > 
+<details open> 
   <summary><h2 align="left">📊 Stats And Activities:</h2></summary>
   
   <p align="center">
@@ -72,7 +72,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 </details>
 
 
-<details> 
+<details open> 
 
   <summary><h2 align="left">📕All My Repositories:</h2></summary>
 
@@ -99,7 +99,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   </p>
 </details>
 
-<details> 
+<details open> 
 
   <summary><h2 align="left">👨‍💻My Favorite Repositories:</h2></summary>
 
@@ -113,7 +113,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 </details>
 
 
-<details> 
+<details open> 
   <summary><h2 align="left">❤️‍🔥Project i've Contributed To: </h2></summary>
   <p align="center">
     <a href="https://github.com/TQ-Chatting-Ai/Discord-bot">
@@ -123,7 +123,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <!-- add -->
 
-<details> 
+<details open> 
   <summary><h2 align="left">🌠 GitHub Stars: </h2></summary>
   <p align="center">
   <a href="https://github.com/mihonapp/mihon">
@@ -139,7 +139,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <!-- Control "p" -->
 
-<details> 
+<details open> 
   <summary><h2 align="left">💻 Tech Stack:</h2></summary>
   <p align="center">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"/></code>
@@ -157,7 +157,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   </p>
 </details>
 
-<details> 
+<details open> 
   <summary><h2 align="left">🏆 Current Trophy: </h2></summary>
       <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <!--   GitHub Trophy https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme -->
