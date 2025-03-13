@@ -104,11 +104,11 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <summary><h2 align="left">👨‍💻My Favorite Repositories:</h2></summary>
 
   <p align="center">
-  <a href="https://github.com/msalmanrafadhlih/mihon">
-  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=mihon&theme=dracula&description_lines_count=2" />
+  <a href="https://github.com/EbookFoundation/free-programming-books">
+  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EbookFoundation&repo=free-programming-books&theme=dracula&description_lines_count=3" />
   </a>
-  <a href="https://github.com/msalmanrafadhlih/ensiklopedia-github.io">
-  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=ensiklopedia-github.io&theme=dracula&description_lines_count=2" /></a>
+  <a href="https://github.com/freeCodeCamp/freeCodeCamp">
+  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=freeCodeCamp&repo=freeCodeCamp&show_owner=true&theme=dracula&description_lines_count=3" /></a>
   </p>
 </details>
 
@@ -121,9 +121,14 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   </p>
 </details>
 
+<!-- add -->
+
 <details> 
   <summary><h2 align="left">🌠 GitHub Stars: </h2></summary>
-  <p align="center"></p>
+  <p align="center">
+  <a href="https://github.com/msalmanrafadhlih/ensiklopedia-github.io">
+  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihonapp&repo=mihon&show_owner=true&theme=dracula&description_lines_count=3" /></a>
+  </p>
 </details>
 
 <!-- Control "p" -->
