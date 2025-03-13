@@ -134,6 +134,8 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ReVanced&repo=revanced-manager&show_owner=true&theme=dracula&description_lines_count=3" /></a>
   <a href="https://github.com/EvanLi/Github-Ranking">
   <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanLi&repo=Github-Ranking&show_owner=true&theme=dracula&description_lines_count=3" /></a>
+  <a href="https://github.com/drknzz/GitHub-Achievements">
+  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drknzz&repo=GitHub-Achievements&show_owner=true&theme=dracula&description_lines_count=3" /></a>
   </p>
 </details>
 
