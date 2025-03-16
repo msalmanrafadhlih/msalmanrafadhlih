@@ -72,7 +72,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 </details>
 
 
-<details open> 
+<details> 
 
   <summary><h2 align="left">📕All My Repositories:</h2></summary>
 
