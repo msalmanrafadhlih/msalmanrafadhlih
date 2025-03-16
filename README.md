@@ -99,7 +99,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   </p>
 </details>
 
-<details open> 
+<details> 
 
   <summary><h2 align="left">👨‍💻My Favorite Repositories:</h2></summary>
 
@@ -113,7 +113,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 </details>
 
 
-<details open> 
+<details> 
   <summary><h2 align="left">❤️‍🔥Project i've Contributed To: </h2></summary>
   <p align="center">
     <a href="https://github.com/TQ-Chatting-Ai/DiscordBot">
@@ -123,7 +123,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 <!-- add -->
 
-<details open> 
+<details> 
   <summary><h2 align="left">🌠 GitHub Stars: </h2></summary>
   <p align="center">
   <a href="https://github.com/mihonapp/mihon">
