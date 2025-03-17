@@ -1,32 +1,40 @@
-name: Auto Review & Merge PR
+name: Auto Review and Merge PR
 
 on:
-  pull_request_target:
-    types: [opened, synchronize, reopened]
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
 
 permissions:
   pull-requests: write
   contents: write
 
 jobs:
-  auto-merge:
+  auto-review-merge:
     runs-on: ubuntu-latest
     steps:
-      - name: Approve PR if author is allowed
-        if: |
-          contains('msalmanrafadhlih mochsalman', github.event.pull_request.user.login) &&
-          github.event.pull_request.base.ref == 'main'
-        uses: hmarr/auto-approve-action@v4
+      - name: Berikan review otomatis
+        if: github.actor == 'msalmanrafadhlih' || github.actor == 'mochsalman'
+        uses: peter-evans/review-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ github.event.pull_request.number }}
+          event: APPROVE
+          body: |
+            ✅ PR ini telah direview secara otomatis. Jika tidak ada perubahan lain, PR ini akan di-approve dan di-merge segera.
+
+      - name: Approve PR jika dari contributor yang diizinkan
+        if: github.actor == 'msalmanrafadhlih' || github.actor == 'mochsalman'
+        uses: hmarr/auto-approve-action@v3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Merge PR if approved
-        if: |
-          contains('msalmanrafadhlih mochsalman', github.event.pull_request.user.login) &&
-          github.event.pull_request.base.ref == 'main' &&
-          github.event.pull_request.mergeable == true
-        uses: pascalgn/automerge-action@v0.16.4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MERGE_METHOD: "squash"
-          MERGE_COMMIT_MESSAGE: "Auto-merged PR by bot"
+      - name: Aktifkan auto-merge
+        if: github.actor == 'msalmanrafadhlih' || github.actor == 'mochsalman'
+        uses: peter-evans/enable-pull-request-automerge@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ github.event.pull_request.number }}
+          merge-method: squash
