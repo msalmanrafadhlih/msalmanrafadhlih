@@ -13,13 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Approve PR if author is allowed
-        if: contains('msalmanrafadhlih mochsalman', github.event.pull_request.user.login)
+        if: |
+          contains('msalmanrafadhlih mochsalman', github.event.pull_request.user.login) &&
+          github.event.pull_request.base.ref == 'main'
         uses: hmarr/auto-approve-action@v4
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Merge PR if approved
-        if: contains('msalmanrafadhlih mochsalman', github.event.pull_request.user.login)
+        if: |
+          contains('msalmanrafadhlih mochsalman', github.event.pull_request.user.login) &&
+          github.event.pull_request.base.ref == 'main' &&
+          github.event.pull_request.mergeable == true
         uses: pascalgn/automerge-action@v0.16.4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
