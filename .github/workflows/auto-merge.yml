@@ -18,7 +18,7 @@ jobs:
           github.event.pull_request.base.ref == 'main'
         uses: hmarr/auto-approve-action@v4
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.PAT_TOKEN }}
 
       - name: Merge PR if approved
         if: |
@@ -27,6 +27,6 @@ jobs:
           github.event.pull_request.mergeable == true
         uses: pascalgn/automerge-action@v0.16.4
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
           MERGE_METHOD: "squash"
           MERGE_COMMIT_MESSAGE: "Auto-merged PR by bot"
