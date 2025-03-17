@@ -10,7 +10,7 @@ let special;
 const fetchStars = async () => {
   try {
     const response = await fetch(
-      `https://api.github.com/users/SudhanPlayz/starred?per_page=100&page=${page}`
+      `https://api.github.com/users/msalmanrafadhlih/starred?per_page=100&page=${page}`
     );
     if (!response.ok) {
       throw new Error(`GitHub API responded with status: ${response.status}`);
@@ -36,7 +36,7 @@ const countStars = async () => {
 
 const fetchUserData = async () => {
   try {
-    const response = await fetch("https://api.github.com/users/SudhanPlayz");
+    const response = await fetch("https://api.github.com/users/msalmanrafadhlih");
     if (!response.ok) {
       throw new Error(`GitHub API responded with status: ${response.status}`);
     }
@@ -61,7 +61,8 @@ const writeReadMe = async () => {
   const userData = await fetchUserData();
   if (!userData) return;
 
-  const text = `<!-- **msalmanrafadhlih/msalmanrafadhlih** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+  const text = `<!--
+**msalmanrafadhlih/msalmanrafadhlih** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
