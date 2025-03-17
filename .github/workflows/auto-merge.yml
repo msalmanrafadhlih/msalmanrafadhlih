@@ -1,0 +1,27 @@
+name: Auto Review & Merge PR
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  pull-requests: write
+  contents: write
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Approve PR if author is allowed
+        if: contains('msalmanrafadhlih mochsalman', github.event.pull_request.user.login) && github.event.pull_request.base.ref == 'main'
+        uses: hmarr/auto-approve-action@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Merge PR if approved
+        if: contains('msalmanrafadhlih mochsalman', github.event.pull_request.user.login)
+        uses: pascalgn/automerge-action@v0.16.4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MERGE_METHOD: "squash"
+          MERGE_COMMIT_MESSAGE: "Auto-merged PR by bot"
