@@ -17,7 +17,7 @@ jobs:
     steps:
       - name: Berikan review otomatis
         if: github.actor == 'msalmanrafadhlih' || github.actor == 'mochsalman'
-        uses: peter-evans/review-pull-request@v3
+        uses: peter-evans/review-pull-request@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           pull-request-number: ${{ github.event.pull_request.number }}
@@ -33,7 +33,7 @@ jobs:
 
       - name: Aktifkan auto-merge
         if: github.actor == 'msalmanrafadhlih' || github.actor == 'mochsalman'
-        uses: peter-evans/enable-pull-request-automerge@v2
+        uses: peter-evans/enable-pull-request-automerge@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           pull-request-number: ${{ github.event.pull_request.number }}
