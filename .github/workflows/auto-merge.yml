@@ -12,22 +12,22 @@ permissions:
   contents: write
 
 jobs:
-  auto-review-merge:
+  auto-merge:
     runs-on: ubuntu-latest
     steps:
-      - name: Berikan review otomatis
-        if: github.actor == 'msalmanrafadhlih' || github.actor == 'mochsalman'
-        uses: peter-evans/review-pull-request@v7
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          pull-request-number: ${{ github.event.pull_request.number }}
-          event: APPROVE
-          body: |
-            ✅ PR ini telah direview secara otomatis. Jika tidak ada perubahan lain, PR ini akan di-approve dan di-merge segera.
+      # - name: Berikan review otomatis
+      #   if: github.actor == 'msalmanrafadhlih' || github.actor == 'mochsalman'
+      #   uses: peter-evans/review-pull-request@v7
+      #   with:
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     pull-request-number: ${{ github.event.pull_request.number }}
+      #     event: APPROVE
+      #     body: |
+      #       ✅ PR ini telah direview secara otomatis. Jika tidak ada perubahan lain, PR ini akan di-approve dan di-merge segera.
 
       - name: Approve PR jika dari contributor yang diizinkan
         if: github.actor == 'msalmanrafadhlih' || github.actor == 'mochsalman'
-        uses: hmarr/auto-approve-action@v3
+        uses: hmarr/auto-approve-action@v4
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
