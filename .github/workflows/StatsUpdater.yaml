@@ -1,6 +1,8 @@
 name: ReadMe Stats Updater
 
 on:
+  schedule:
+  workflow_dispatch:
   workflow_run:
     workflows: ["Main ReadMe Updater"]
     branches: [master]
