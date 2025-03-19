@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 
 const Tquilla = {
   FavouriteLanguage: "JavaScript/TypeScript",
-  OpenedIssues: 6,
-  OpenedPullRequests: 49,
-  TotalCommits: 721,
+  OpenedIssues: {{ ISSUES }},
+  OpenedPullRequests: {{ PULL_REQUESTS }},
+  TotalCommits: {{ COMMITS }},
   Stars: 52,
   Repositories: {
-    Created: 22,
-    Contributed: 9
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
   },
 };
 -->
@@ -190,6 +190,6 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 
 
-<!-- Last updated on Wed Mar 19 2025 05:15:30 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Wed Mar 19 2025 05:56:18 GMT+0000 (Coordinated Universal Time) ;-;-->
 
 <p align="center">✨ Last updated on 19th March 2025 ✨</p><br>
