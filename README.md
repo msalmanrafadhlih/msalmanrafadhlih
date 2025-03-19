@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 
 const Tquilla = {
   FavouriteLanguage: "JavaScript/TypeScript",
-  OpenedIssues: 6,
-  OpenedPullRequests: 49,
-  TotalCommits: 721,
+  OpenedIssues: {{ ISSUES }},
+  OpenedPullRequests: {{ PULL_REQUESTS }},
+  TotalCommits: {{ COMMITS }},
   Stars: 52,
   Repositories: {
-    Created: 22,
-    Contributed: 9
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
   },
 };
 -->
@@ -176,6 +176,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
       <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <!--   GitHub Trophy https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme -->
   <p align="center">
+  
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&title=Commits&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula"/></a>
     <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&title=Repositories&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula"/></a>
     <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&title=Reviews&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula"/></a>
@@ -187,6 +188,6 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
     <a href=""><img width="335" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&title=-Commits,-Repositories,-Reviews,-Stars,-Folowers,-Experiences,-Issues,-PullRequest&column=4&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&"/></a>
   </p>
 </details><br><br>
-<!-- Last updated on Wed Mar 19 2025 05:59:48 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Wed Mar 19 2025 06:03:42 GMT+0000 (Coordinated Universal Time) ;-;-->
 
 <p align="center">✨ Last updated on 19th March 2025 ✨</p><br>
