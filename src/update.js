@@ -74,6 +74,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...,
 - 😄 Pronouns: ...,
 - ⚡ Fun fact: ...,
+
+const Tquilla = {
+  FavouriteLanguage: "JavaScript/TypeScript",
+  OpenedIssues: {{ ISSUES }},
+  OpenedPullRequests: {{ PULL_REQUESTS }},
+  TotalCommits: {{ COMMITS }},
+  Stars: ${stars},
+  Repositories: {
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+  },
+};
 -->
 
 
