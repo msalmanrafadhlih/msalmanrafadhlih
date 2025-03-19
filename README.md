@@ -11,6 +11,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...,
 - 😄 Pronouns: ...,
 - ⚡ Fun fact: ...,
+
+const Tquilla = {
+  FavouriteLanguage: "JavaScript/TypeScript",
+  OpenedIssues: {{ ISSUES }},
+  OpenedPullRequests: {{ PULL_REQUESTS }},
+  TotalCommits: {{ COMMITS }},
+  Stars: 52,
+  Repositories: {
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+  },
+};
 -->
 
 
@@ -178,7 +190,6 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 
 
 
-<!-- Last updated on Wed Mar 19 2025 01:46:59 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Wed Mar 19 2025 02:33:08 GMT+0000 (Coordinated Universal Time) ;-;-->
 
 <p align="center">✨ Last updated on 19th March 2025 ✨</p><br>
-
