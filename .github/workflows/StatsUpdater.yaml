@@ -34,5 +34,5 @@ jobs:
           git commit -am "[Automatic] Updated Stats ReadMe.md 
           
           Co-authored-by: ${{ secrets.CO_USERNAME }} <${{ secrets.CO_AUTHOR }}@gmail.com>"
-          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+          git push --all -f https://${{ secrets.MY_PAT }}@github.com/${GITHUB_REPOSITORY}.git
           fi
