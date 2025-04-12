@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 
 const Tquilla = {
   FavouriteLanguage: "JavaScript/TypeScript",
-  OpenedIssues: 8,
-  OpenedPullRequests: 69,
-  TotalCommits: 1081,
+  OpenedIssues: {{ ISSUES }},
+  OpenedPullRequests: {{ PULL_REQUESTS }},
+  TotalCommits: {{ COMMITS }},
   Stars: 55,
   Repositories: {
-    Created: 7,
-    Contributed: 25
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
   },
 };
 -->
@@ -177,16 +177,16 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 <!--   GitHub Trophy https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme -->
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=Commits"/></a>
-    <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=Repositories"/></a>
+    <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=PullRequest"/></a>
     <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&title=Reviews&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula"/></a>
     <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=Stars"/></a>
+    <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=Repositories"/></a>
     <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=Followers"/></a>
     <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=Experiences"/></a>
     <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=Issues"/></a>
-    <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=PullRequest"/></a>
     <a href=""><img width="335" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&title=-Commits,-Repositories,-Reviews,-Stars,-Folowers,-Experiences,-Issues,-PullRequest&column=4&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&"/></a>
   </p>
 </details><br><br>
-<!-- Last updated on Sat Apr 12 2025 01:25:22 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sat Apr 12 2025 01:43:58 GMT+0000 (Coordinated Universal Time) ;-;-->
 
 <p align="center">✨ Last updated on 12th April 2025 ✨</p><br>
