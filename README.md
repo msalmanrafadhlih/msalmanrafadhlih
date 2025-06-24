@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 
 const Tquilla = {
   FavouriteLanguage: "JavaScript/TypeScript",
-  OpenedIssues: {{ ISSUES }},
-  OpenedPullRequests: {{ PULL_REQUESTS }},
-  TotalCommits: {{ COMMITS }},
+  OpenedIssues: 8,
+  OpenedPullRequests: 86,
+  TotalCommits: 2020,
   Stars: 70,
   Repositories: {
-    Created: {{ REPOSITORIES }},
-    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    Created: 12,
+    Contributed: 27
   },
 };
 -->
