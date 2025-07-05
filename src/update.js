@@ -163,7 +163,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <summary><h2 align="left">📊 Stats And Activities:</h2></summary>
   
   <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula"/></a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>
   </p>
