@@ -124,12 +124,13 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
         </samp>
 </h3> -->
 
+
   <p align ="left"> <!-- 📫 How to reach me: -->
-  <code><a href="https://x.com/Rafadhlih" target="_blank"><img height="20" alt="twitter" src="/assets/x.png"></a></code> 
-  <code><a href="https://bsky.app/profile/msalmanrafadhlih.bsky.social" target="_blank"><img height="20" alt="bluesky" src="/assets/bluesky2.png"></a></code>
-  <code><a href="https://www.threads.net/@msalmanrafadhlih" target="_blank"><img height="20" alt="threads" src="/assets/threads.png"></a></code>
-  <code><a href="https://github.com/msalmanrafadhlih" target="_blank"><img height="20" alt="Youtube" src="/assets/youtube.png"></a></code>
-  <code><a href="https://www.linkedin.com/in/msalmanrafadhlih" target="_blank"><img height="20" alt="linkedin.com" src="/assets/linkedin1.png"></a></code><br>
+  <code><a href="https://x.com/Rafadhlih" target="_blank"><img width="20" alt="twitter" src="/assets/x.png"></a></code> 
+  <code><a href="https://bsky.app/profile/msalmanrafadhlih.bsky.social" target="_blank"><img width="20" alt="bluesky" src="/assets/bluesky2.png"></a></code>
+  <code><a href="https://www.threads.net/@msalmanrafadhlih" target="_blank"><img width="20" alt="threads" src="/assets/threads.png"></a></code>
+  <code><a href="https://github.com/msalmanrafadhlih" target="_blank"><img width="20" alt="Youtube" src="/assets/youtube.png"></a></code>
+  <code><a href="https://www.linkedin.com/in/msalmanrafadhlih" target="_blank"><img width="20" alt="linkedin.com" src="/assets/linkedin1.png"></a></code><br>
   </p>
  
   <!--https://www.youtube.com/@Babebibobu1?sub_confirmation=1-->
