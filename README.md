@@ -86,6 +86,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
     <a href="https://github.com/msalmanrafadhlih/peminjaman-buku-digital"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=peminjaman-buku-digital&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Peminjaman Buku Digital"></a>
     <a href="https://github.com/msalmanrafadhlih/ensiklopedia-github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=ensiklopedia-github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Ensiklopedia"></a>
     <a href="https://github.com/msalmanrafadhlih/javascriptLearning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=javascriptLearning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="FreeCodeCamp Course: Learning Javascript"></a>
+    <a href="https://github.com/msalmanrafadhlih/WebStore"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msalmanrafadhlih&repo=WebStore&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Web Store"></a>
   </p>
 
 <details> 
@@ -142,6 +143,6 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
     <a href=""><img width="335" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&title=-Commits,-Repositories,-Reviews,-Stars,-Folowers,-Experiences,-Issues,-PullRequest&column=4&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&"/></a>
   </p>
 </details><br><br>
-<!-- Last updated on Sun Jul 06 2025 12:54:49 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sun Jul 06 2025 14:22:44 GMT+0000 (Coordinated Universal Time) ;-;-->
 
 <p align="center">✨ Last updated on 6th July 2025 ✨</p><br>
