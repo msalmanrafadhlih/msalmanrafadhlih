@@ -93,7 +93,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <summary><h2 align="left">📊 Stats And Activities:</h2></summary>
   
   <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="395" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula"/></a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>
   </p>
@@ -143,6 +143,6 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
     <a href=""><img width="335" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&title=-Commits,-Repositories,-Reviews,-Stars,-Folowers,-Experiences,-Issues,-PullRequest&column=4&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&"/></a>
   </p>
 </details><br><br>
-<!-- Last updated on Sun Jul 06 2025 16:23:34 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sun Jul 06 2025 18:19:19 GMT+0000 (Coordinated Universal Time) ;-;-->
 
 <p align="center">✨ Last updated on 6th July 2025 ✨</p><br>
