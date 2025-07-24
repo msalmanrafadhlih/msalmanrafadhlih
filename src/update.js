@@ -90,7 +90,6 @@ const Tquilla = {
 
 <h3 style="font-family: comic-sans-ms"><samp>
 I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.</samp> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-<br>
 <ul>
  <li><samp>🌱 Exploring Technical Content Writing.</samp></li>
  <li><samp>⚡ In my free time, I love to read tech articles.</samp></li>
@@ -99,10 +98,8 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
  <li><samp>🤔 I'm looking for help with mastering my skills as front end developer(beginner).</samp></li>
 </ul>
 <br>
-<br>
 
-
-  <p align ="center"> <!-- 📫 How to reach me: -->
+<p align ="center"> <!-- 📫 How to reach me: -->
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img width="20" alt="twitter" src="/assets/x.png"></a></code> 
   <code><a href="https://bsky.app/profile/msalmanrafadhlih.bsky.social" target="_blank"><img width="20" alt="bluesky" src="/assets/bluesky2.png"></a></code>
   <code><a href="https://www.threads.net/@msalmanrafadhlih" target="_blank"><img width="20" alt="threads" src="/assets/threads.png"></a></code>
@@ -110,7 +107,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <code><a href="https://www.linkedin.com/in/msalmanrafadhlih" target="_blank"><img width="20" alt="linkedin.com" src="/assets/linkedin1.png"></a></code>
   <a href="https://msalmanrafadhlih.github.io/My-portofolio/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio Badge" align="left" /></a>
   <img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue&style=for-the-badge&abbreviated=true" alt="Profile views" align="right"/>
-  </p>
+</p>
   
 ##
 
