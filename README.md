@@ -27,7 +27,6 @@ const Tquilla = {
 
 <h3 style="font-family: comic-sans-ms"><samp>
 I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.</samp> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-<br>
 <ul>
  <li><samp>🌱 Exploring Technical Content Writing.</samp></li>
  <li><samp>⚡ In my free time, I love to read tech articles.</samp></li>
@@ -36,10 +35,8 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
  <li><samp>🤔 I'm looking for help with mastering my skills as front end developer(beginner).</samp></li>
 </ul>
 <br>
-<br>
 
-
-  <p align ="center"> <!-- 📫 How to reach me: -->
+<p align ="center"> <!-- 📫 How to reach me: -->
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img width="20" alt="twitter" src="/assets/x.png"></a></code> 
   <code><a href="https://bsky.app/profile/msalmanrafadhlih.bsky.social" target="_blank"><img width="20" alt="bluesky" src="/assets/bluesky2.png"></a></code>
   <code><a href="https://www.threads.net/@msalmanrafadhlih" target="_blank"><img width="20" alt="threads" src="/assets/threads.png"></a></code>
@@ -47,14 +44,14 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <code><a href="https://www.linkedin.com/in/msalmanrafadhlih" target="_blank"><img width="20" alt="linkedin.com" src="/assets/linkedin1.png"></a></code>
   <a href="https://msalmanrafadhlih.github.io/My-portofolio/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio Badge" align="left" /></a>
   <img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue&style=for-the-badge&abbreviated=true" alt="Profile views" align="right"/>
-  </p>
+</p>
   
 ##
 
 <br><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 <!--   GitHub Trophy https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme -->
-<!-- Last updated on Thu Jul 24 2025 14:19:23 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Thu Jul 24 2025 14:31:32 GMT+0000 (Coordinated Universal Time) ;-;-->
 <p align="center">✨ Last updated on 24th July 2025 ✨ </p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=Commits"/></a>
