@@ -51,7 +51,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
 <br><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 <!--   GitHub Trophy https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme -->
-<!-- Last updated on Thu Jul 24 2025 16:25:26 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Thu Jul 24 2025 20:22:21 GMT+0000 (Coordinated Universal Time) ;-;-->
 <p align="center">✨ Last updated on 24th July 2025 ✨ </p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=Commits"/></a>
