@@ -13,7 +13,9 @@ on:
 #            │  └──────── Jam (0-59)
 #            └─────────── Menit (0-59)
   workflow_dispatch:
-    
+  
+permissions:
+  contents: write  
 
 jobs:
   update:
