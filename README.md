@@ -1,5 +1,4 @@
-<!--
-**msalmanrafadhlih/msalmanrafadhlih** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+<!--**msalmanrafadhlih/msalmanrafadhlih** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...,
@@ -23,9 +22,7 @@ const Tquilla = {
   },
 }; -->
 
-## <samp>> Hey There!, I am <b>Rafadhlih<b> </samp> <img align="right" src="/assets/Ap.jpg" width="270" />
-
-<h3 style="font-family: comic-sans-ms"><samp>
+<!-- <h3 style="font-family: comic-sans-ms"><samp>
 I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.</samp> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <ul>
  <li><samp>🌱 Exploring Technical Content Writing.</samp></li>
@@ -34,7 +31,18 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
  <li><samp>👯‍♀️ I'm looking to collaborate on front end developer projects.</samp></li>
  <li><samp>🤔 I'm looking for help with mastering my skills as front end developer(beginner).</samp></li>
 </ul>
-<br>
+<br> -->
+
+<!-- <samp>> Hey There!, I am <b>Rafadhlih<b> </samp>  -->
+
+<!-- <img align="right" src="/assets/Ap.jpg" width="270" /><br> -->
+
+<p align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>
+</p>
+
+<!-- Last updated on Sun Dec 28 2025 17:46:31 GMT+0000 (Coordinated Universal Time) ;-;-->
+<p align="center">🎄 Last updated on 28th December 2025 🎄 </p>
 
 <p align ="center"> <!-- 📫 How to reach me: -->
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img width="20" alt="twitter" src="/assets/x.png"></a></code> 
@@ -46,12 +54,10 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue&style=for-the-badge&abbreviated=true" alt="Profile views" align="right"/>
 </p>
   
-##
-
-<br><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<!-- <br><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"> -->
 
 <!--   GitHub Trophy https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme -->
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=Commits"/></a>
     <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=PullRequest"/></a>
     <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&title=Reviews&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula"/></a>
@@ -61,21 +67,18 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
     <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=Experiences"/></a>
     <a href=""><img width="80" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&rank=-B,-C,-?&column=1&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&title=Issues"/></a>
     <a href=""><img width="335" src="https://github-profile-trophy.vercel.app/?username=msalmanrafadhlih&title=-Commits,-Repositories,-Reviews,-Stars,-Folowers,-Experiences,-Issues,-PullRequest&column=4&margin-w=1&no-frame=true&margin-h=15&no-bg=true&theme=dracula&"/></a>
-</p>
-<!-- Last updated on Sun Dec 28 2025 12:33:24 GMT+0000 (Coordinated Universal Time) ;-;-->
-<p align="center">🎄 Last updated on 28th December 2025 🎄 </p>
+</p> -->
 
-##
 
-<div align="center">
+<!-- <div align="center">
 <details><summary>📊 Stats And Activities:</summary><br>
     <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width="395" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img width="395" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula"/></a>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>
     </p>
-</details>
-<details><summary>🌠 GitHub Stars:</summary><br>
+</details> -->
+  
+<!-- <details><summary>🌠 GitHub Stars:</summary><br>
   <p align="center">
     <a href="https://github.com/mihonapp/mihon">
     <img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihonapp&repo=mihon&show_owner=true&theme=dracula&description_lines_count=3" /></a>
@@ -94,7 +97,7 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
     <img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=freeCodeCamp&repo=freeCodeCamp&show_owner=true&theme=dracula&description_lines_count=3" /></a>
   </p>
 </details>
-</div>
+</div> -->
 
 
 <!-- pin my repos
