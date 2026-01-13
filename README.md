@@ -41,8 +41,8 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>
 </p>
 
-<!-- Last updated on Mon Jan 12 2026 12:33:36 GMT+0000 (Coordinated Universal Time) ;-;-->
-<p align="center">✨ Last updated on 12th January 2026 ✨ </p>
+<!-- Last updated on Tue Jan 13 2026 01:08:27 GMT+0000 (Coordinated Universal Time) ;-;-->
+<p align="center">✨ Last updated on 13th January 2026 ✨ </p>
 
 <p align ="center"> <!-- 📫 How to reach me: -->
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img width="20" alt="twitter" src="/assets/x.png"></a></code> 
