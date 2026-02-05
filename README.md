@@ -41,8 +41,8 @@ I'm a Growing Front-End Developer from Indonesia. I love a challenge and I'm ski
   <a href=""><img src="https://github-readme-streak-stats-omega-woad.vercel.app/?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>
 </p>
 
-<!-- Last updated on Wed Feb 04 2026 15:22:31 GMT+0000 (Coordinated Universal Time) ;-;-->
-<p align="center">✨ Last updated on 4th February 2026 ✨ </p>
+<!-- Last updated on Thu Feb 05 2026 01:23:11 GMT+0000 (Coordinated Universal Time) ;-;-->
+<p align="center">✨ Last updated on 5th February 2026 ✨ </p>
 
 <p align ="center"> <!-- 📫 How to reach me: -->
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img width="20" alt="twitter" src="/assets/x.png"></a></code> 
