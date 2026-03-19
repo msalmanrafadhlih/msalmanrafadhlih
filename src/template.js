@@ -1,4 +1,4 @@
-export default ({ date, dd, special, getDateSuffix }) => `
+export default ({ date, dd, mm, special, getDateSuffix }) => `
 
   <!--**msalmanrafadhlih/msalmanrafadhlih** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
     Here are some ideas to get you started:
