@@ -62,7 +62,7 @@ const writeReadMe = async () => {
   const userData = await fetchUserData();
   if (!userData) return;
 
-  const text = template ({ date, dd, special, getDateSuffix }); 
+  const text = template ({ date, dd, mm, special, getDateSuffix }); 
 
   fs.writeFileSync(readMePath, text);
 };
