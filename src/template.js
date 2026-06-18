@@ -1,12 +1,17 @@
 export default ({ date, dd, mm, special, getDateSuffix }) => `
 
   <details><summary>📊 Stats And Activities:</summary><br>
-      <p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img width="395" src="https://github-readme-stats.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github"/></a>
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula"/></a>
-      </p>
+    <div align="center">
+      <img src="https://github-profile-trophy-five-liart.vercel.app/?username=msalmanrafadhlih&theme=juicyfresh&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&" alt="Trophies"/>
+    </div> 
+    <div align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats-rho-one-0znb1utdpw.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula"/></a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180em" src="https://github-readme-stats-rho-one-0znb1utdpw.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github"/>
+      <a/>
+    </div>
   </details>
-  
+
   <p align="center">
     <a href="https://github.com/toniGitH/toniGitH"><img src="https://github-readme-streak-stats-omega-woad.vercel.app/?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>
   </p>
