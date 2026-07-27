@@ -1,5 +1,4 @@
 import path from "path";
-import template from "./template.js";
 import fetch from "node-fetch";
 import fs from "fs";
 
@@ -49,7 +48,9 @@ const fetchUserData = async () => {
 };
 
 const writeReadMe = async () => {
+  const templatePath = path.join(process.cwd(), "template.md");
   const readMePath = path.join(process.cwd(), "README.md");
+  
   const date = new Date();
   const [dd, mm] = [date.getDate(), date.getMonth() + 1];
 
@@ -62,7 +63,26 @@ const writeReadMe = async () => {
   const userData = await fetchUserData();
   if (!userData) return;
 
-  const text = template ({ date, dd, mm, special, getDateSuffix }); 
+  // Baca file template.md
+  let template = fs.readFileSync(templatePath, "utf-8");
+
+  // Hitung variabel
+  const fullDate = date.toString();
+  const dateSuffix = getDateSuffix(dd);
+  const monthName = date.toLocaleString("default", { month: "long" });
+  const yearName = date.getFullYear();
+  const specialChar = special[2];
+  const birthdayMsg = mm === 11 && dd === 28 ? "<br>and... today is my birthday" : "";
+
+  // Replace placeholder ke data asli
+  const text = template
+    .replace(/{{full_date}}/g, fullDate)
+    .replace(/{{special}}/g, specialChar)
+    .replace(/{{dd}}/g, dd)
+    .replace(/{{date_suffix}}/g, dateSuffix)
+    .replace(/{{month}}/g, monthName)
+    .replace(/{{year}}/g, yearName)
+    .replace(/{{birthday_msg}}/g, birthdayMsg);
 
   fs.writeFileSync(readMePath, text);
 };
@@ -77,10 +97,9 @@ const getDateSuffix = (day) => {
   }
 };
 
-
 (async () => {
   await countStars();
 })();
 
-
 export {};
+      
