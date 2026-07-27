@@ -48,7 +48,7 @@ const fetchUserData = async () => {
 };
 
 const writeReadMe = async () => {
-  const templatePath = path.join(process.cwd(), "template.md");
+  const templatePath = path.join(process.cwd(), "src/template.md");
   const readMePath = path.join(process.cwd(), "README.md");
   
   const date = new Date();
