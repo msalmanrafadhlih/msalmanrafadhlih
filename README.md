@@ -2,20 +2,26 @@
   <div align="center">
     <img src="https://github-profile-trophy-five-liart.vercel.app/?username=msalmanrafadhlih&theme=juicyfresh&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&" alt="Trophies"/>
   </div> 
-  <div align="center"> 
-    <a href="https://github.com/toniGitH/toniGitH"><img src="https://github-readme-streak-stats-omega-woad.vercel.app/?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>  
+  <div align="center">   
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats-rho-one-0znb1utdpw.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="180em" src="https://github-readme-stats-rho-one-0znb1utdpw.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github"/>
     </a>
+    <p align="center">
+        <a href="https://github.com/toniGitH/toniGitH"><img src="https://github-readme-streak-stats-omega-woad.vercel.app/?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>  
+    </p>
   </div>
 </details>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats-rho-one-0znb1utdpw.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula"/></a>
-</p>
+<a href="https://github.com/msalmanrafadhlih/github-readme-card">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msalmanrafadhlih/github-readme-card/main/.github/msalmanrafadhlih_dark.svg">
+    <img alt="Msalmanrafadhlih's GitHub Profile README" src="https://raw.githubusercontent.com/msalmanrafadhlih/github-readme-card/main/.github/msalmanrafadhlih_light.svg">
+  </picture>
+</a>
 
-<!-- Last updated on Mon Jul 27 2026 16:53:32 GMT+0000 (Coordinated Universal Time) ;-;-->
-<p align="center">✨ Last updated on 27th July 2026 ✨ </p>
+<!-- Last updated on Sat Aug 01 2026 16:40:58 GMT+0000 (Coordinated Universal Time) ;-;-->
+<p align="center">✨ Last updated on 1st August 2026 ✨ </p>
 
 <p align ="center"> <!-- 📫 How to reach me: -->
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img width="20" alt="twitter" src="/assets/x.png"></a></code> 
