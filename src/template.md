@@ -1,6 +1,6 @@
 <details><summary>📊 Stats And Activities:</summary><br>
   <div align="center">
-    <img src="https://github-profile-trophy-five-liart.vercel.app/?username=msalmanrafadhlih&theme=juicyfresh&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&" alt="Trophies"/>
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=msalmanrafadhlih&theme=dracula&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&" alt="Trophies"/>
   </div> 
   <div align="center">   
     <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats-rho-one-0znb1utdpw.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula"/></a>
