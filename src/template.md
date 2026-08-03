@@ -5,7 +5,7 @@
   <div align="center">   
     <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats-rho-one-0znb1utdpw.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats-rho-one-0znb1utdpw.vercel.app/api?username=msalmanrafadhlih&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github"/>
+      <img height="180em" src="https://github-stats-extended.vercel.app/api/?username=msalmanrafadhlih&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true&custom_title=Tquilla%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"/>
     </a>
     <p align="center">
         <a href="https://github.com/toniGitH/toniGitH"><img src="https://github-readme-streak-stats-omega-woad.vercel.app/?user=msalmanrafadhlih&theme=dracula&card_height=170" alt="GitHub Streak" /></a>  
