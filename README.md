@@ -1,6 +1,6 @@
 <details><summary>📊 Stats And Activities:</summary><br>
   <div align="center">
-    <img src="https://github-profile-trophy-five-liart.vercel.app/?username=msalmanrafadhlih&theme=juicyfresh&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&" alt="Trophies"/>
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=msalmanrafadhlih&theme=dracula&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&" alt="Trophies"/>
   </div> 
   <div align="center">   
     <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats-rho-one-0znb1utdpw.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula"/></a>
@@ -20,8 +20,8 @@
   </picture>
 </a>
 
-<!-- Last updated on Sat Aug 01 2026 16:40:58 GMT+0000 (Coordinated Universal Time) ;-;-->
-<p align="center">✨ Last updated on 1st August 2026 ✨ </p>
+<!-- Last updated on Mon Aug 03 2026 19:35:05 GMT+0000 (Coordinated Universal Time) ;-;-->
+<p align="center">✨ Last updated on 3rd August 2026 ✨ </p>
 
 <p align ="center"> <!-- 📫 How to reach me: -->
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img width="20" alt="twitter" src="/assets/x.png"></a></code> 
