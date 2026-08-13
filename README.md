@@ -13,15 +13,15 @@
   </div>
 </details>
 
-<a href="https://github.com/msalmanrafadhlih/github-readme-card">
+<a href="https://github.com/mochsalman/github-card">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msalmanrafadhlih/github-readme-card/main/.github/msalmanrafadhlih_dark.svg">
-    <img alt="Msalmanrafadhlih's GitHub Profile README" src="https://raw.githubusercontent.com/msalmanrafadhlih/github-readme-card/main/.github/msalmanrafadhlih_light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mochsalman/github-card/main/.github/msalmanrafadhlih_dark.svg">
+    <img alt="Msalmanrafadhlih's GitHub Profile README" src="https://raw.githubusercontent.com/mochsalman/github-card/main/.github/msalmanrafadhlih_light.svg">
   </picture>
 </a>
 
-<!-- Last updated on Mon Aug 03 2026 19:40:43 GMT+0000 (Coordinated Universal Time) ;-;-->
-<p align="center">✨ Last updated on 3rd August 2026 ✨ </p>
+<!-- Last updated on Thu Aug 13 2026 19:23:51 GMT+0000 (Coordinated Universal Time) ;-;-->
+<p align="center">✨ Last updated on 13th August 2026 ✨ </p>
 
 <p align ="center"> <!-- 📫 How to reach me: -->
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img width="20" alt="twitter" src="/assets/x.png"></a></code> 
