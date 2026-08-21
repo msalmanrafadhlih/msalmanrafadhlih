@@ -1,15 +1,20 @@
-<details><summary>📊 Stats And Activities:</summary><br>
-  <div align="center">
-    <img src="https://github-profile-trophy-unserori.vercel.app/?username=msalmanrafadhlih&theme=dracula&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&" alt="Trophies"/>
-  </div> 
+<details><summary>📊 Stats And Activities:</summary><br>  
   <div align="center">   
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats-rho-one-0znb1utdpw.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula&hide_border=true"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-stats-extended.vercel.app/api/?username=msalmanrafadhlih&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true&custom_title=Tquilla%27s+Stats&disable_animations=true&number_format=long&hide_border=true&show=prs_merged_percentage,prs_reviewed"/>
-    </a>
     <p align="center">
         <a href="https://github.com/toniGitH/toniGitH"><img src="https://github-readme-streak-stats-omega-woad.vercel.app/?user=msalmanrafadhlih&theme=dracula&card_height=170&hide_border=true" alt="GitHub Streak" /></a>  
     </p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="180em" src="https://github-stats-extended.vercel.app/api/?username=msalmanrafadhlih&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true&custom_title=Tquilla%27s+Stats&disable_animations=true&number_format=long&hide_border=true&show=prs_merged_percentage,prs_reviewed"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats-rho-one-0znb1utdpw.vercel.app/api/top-langs/?username=msalmanrafadhlih&layout=compact&theme=dracula&hide_border=true"/></a>
+  </div>
+  
+  <div align="center">
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=msalmanrafadhlih&theme=dracula&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&" alt="Trophies"/>
+  </div> 
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/msalmanrafadhlih/profile/main/profile.svg" alt="Journal Profile" width="100%" />
   </div>
 </details>
 
