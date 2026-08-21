@@ -28,14 +28,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add .
-          git commit -am "[Automatic] Updated ReadMe.md 
-          
-          Co-authored-by: ${{ secrets.CO_USERNAME }} <${{ secrets.CO_AUTHOR }}@gmail.com>"
-          git push --all -f https://${{ secrets.MY_PAT }}@github.com/${GITHUB_REPOSITORY}.git
-          
-      - name: Update README.md
-        run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
