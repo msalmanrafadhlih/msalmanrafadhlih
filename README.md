@@ -18,15 +18,15 @@
   </div>
 </details>
 
-<a href="https://github.com/mochsalman/github-card">
+<a href="https://github.com/msalmanrafadhlih/github-readme-card">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mochsalman/github-card/main/.github/msalmanrafadhlih_dark.svg">
-    <img alt="Msalmanrafadhlih's GitHub Profile README" src="https://raw.githubusercontent.com/mochsalman/github-card/main/.github/msalmanrafadhlih_light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msalmanrafadhlih/github-readme-card/main/.github/msalmanrafadhlih_dark.svg">
+    <img alt="Msalmanrafadhlih's GitHub Profile README" src="https://raw.githubusercontent.com/msalmanrafadhlih/github-readme-card/main/.github/msalmanrafadhlih_light.svg">
   </picture>
 </a>
 
-<!-- Last updated on Thu Aug 27 2026 18:57:25 GMT+0000 (Coordinated Universal Time) ;-;-->
-<p align="center">✨ Last updated on 27th August 2026 ✨ </p>
+<!-- Last updated on Fri Aug 28 2026 11:35:45 GMT+0000 (Coordinated Universal Time) ;-;-->
+<p align="center">✨ Last updated on 28th August 2026 ✨ </p>
 
 <p align ="center"> <!-- 📫 How to reach me: -->
   <code><a href="https://x.com/Rafadhlih" target="_blank"><img width="20" alt="twitter" src="/assets/x.png"></a></code> 
