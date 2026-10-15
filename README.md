@@ -25,15 +25,20 @@
   </picture>
 </a>
 
-<!-- Last updated on Thu Oct 15 2026 13:11:07 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Thu Oct 15 2026 16:21:25 GMT+0000 (Coordinated Universal Time) ;-;-->
 <p align="center">✨ Last updated on 15th October 2026 ✨ </p>
 
 <p align ="center"> <!-- 📫 How to reach me: -->
-  <code><a href="https://x.com/Rafadhlih" target="_blank"><img width="20" alt="twitter" src="/assets/x.png"></a></code> 
+  <!-- <code><a href="https://x.com/Rafadhlih" target="_blank"><img width="20" alt="twitter" src="/assets/x.png"></a></code> 
   <code><a href="https://bsky.app/profile/msalmanrafadhlih.bsky.social" target="_blank"><img width="20" alt="bluesky" src="/assets/bluesky2.png"></a></code>
   <code><a href="https://www.threads.net/@msalmanrafadhlih" target="_blank"><img width="20" alt="threads" src="/assets/threads.png"></a></code>
   <code><a href="https://www.youtube.com/@Babebibobu1?sub_confirmation=1" target="_blank"><img width="20" alt="Youtube" src="/assets/youtube.png"></a></code>
-  <code><a href="https://www.linkedin.com/in/msalmanrafadhlih" target="_blank"><img width="20" alt="linkedin.com" src="/assets/linkedin1.png"></a></code>
+  <code><a href="https://www.linkedin.com/in/msalmanrafadhlih" target="_blank"><img width="20" alt="linkedin.com" src="/assets/linkedin1.png"></a></code> -->
+  <code><a href="https://x.com/" target="_blank"><img width="20" alt="twitter" src="/assets/x.png"></a></code> 
+  <code><a href="https://bsky.app/" target="_blank"><img width="20" alt="bluesky" src="/assets/bluesky2.png"></a></code>
+  <code><a href="https://www.threads.net/" target="_blank"><img width="20" alt="threads" src="/assets/threads.png"></a></code>
+  <code><a href="https://www.youtube.com/" target="_blank"><img width="20" alt="Youtube" src="/assets/youtube.png"></a></code>
+  <code><a href="https://www.linkedin.com/" target="_blank"><img width="20" alt="linkedin.com" src="/assets/linkedin1.png"></a></code>
   <a href="https://tquilla.is-a.dev"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio Badge" align="left" /></a>
   <img src="https://komarev.com/ghpvc/?username=msalmanrafadhlih&style=flat-square&color=blue&style=for-the-badge&abbreviated=true" alt="Profile views" align="right"/>
 </p>
